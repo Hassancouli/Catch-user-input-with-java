@@ -1,2 +1,2 @@
 # Catch-user-input-with-java
-GUI simple program to record into a text file user input 
+GUI simple program to record user input into a text file 
